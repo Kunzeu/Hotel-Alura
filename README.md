@@ -17,15 +17,18 @@
 - MySql
 - Plugin WindowBuilder </br>
 ---
-## ⚠️ Importante! ⚠️
+## ⚠️ Important! ⚠️
 
-☕ Use Java versión 8 o superior para compatibilidad. </br></br>
-📝 Recomendamos usar el editor de Eclipse para compatibilidad con la Interfaz Gráfica. </br></br>
-🎨 La interfaz contiene dos métodos importantes:
-- setResizable(false): determina el tamaño de la ventana, y a través del parámetro <strong>false</strong>, la pantalla no se puede maximizar;
-- setLocationRelativeTo(null): determina la ubicación de la ventana, y a través del parámetro <strong>null</strong> la mantiene centrada en la pantalla.
+☕ Use Java version 8 or higher for compatibility.
 
-#### Para este desafío, concéntrate en la parte lógica y la conexión con la base de datos, después de completar el desafío, siéntete libre de agregar nuevas funciones y modificar la interfaz gráfica.
+📝 We recommend using Eclipse IDE for compatibility with the graphical interface.
+
+🎨 The interface contains two important methods:
+
+setResizable(false): sets the window size, and with the parameter false, the screen cannot be maximized.
+setLocationRelativeTo(null): sets the window location, and with the parameter null, it keeps the window centered on the screen.
+
+#### For this challenge, focus on the logical part and the database connection. After completing the challenge, feel free to add new features and modify the graphical interface.
 ---
 
 ## 🔍 ¡Analizando nuestro repositorio!
