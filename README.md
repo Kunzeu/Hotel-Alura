@@ -66,18 +66,18 @@ setLocationRelativeTo(null): sets the window location, and with the parameter nu
 
 #### 🔹 Clone or download the ZIP file
 
-1 - Para clonar, simplemente copia el <em>url</em> resaltado en la imagen y ubicado justo debajo del HTTPS, crea una carpeta en tu computadora, abre el <em>cmd</em> o el <em>git bash</em> dentro de esa carpeta y luego ingresa el comando <strong>git clone</strong> y con el botón derecho del mouse dentro del terminal haz click en la opcion <strong>Paste</strong> para pegar el <em>url</em> y presiona <em>Enter</em>. 
+1 - To clone, simply copy the highlighted <em>URL</em> in the image located just below the HTTPS. Create a folder on your computer, open the <em>cmd</em> or <em>Git Bash</em> within that folder, and then enter the command <strong>git clone</strong>. Right-click inside the terminal and click on the <strong>Paste</strong> option to paste the <em>URL</em>, then press <em>Enter</em>.
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173256523-79d38ee2-8668-435c-b31a-ac6ba78bb813.png">
 </p>
 
-2 - La segunda opción es descargar el código en un paquete <strong>"zipado"</strong> y extraer la carpeta a tu computadora.
+2 - The second option is to download the code as a <strong>zipped</strong> package and extract the folder to your computer.
 </br></br>
 
 ## 📝 Eclipse
 
-### ¿Cómo importar mi proyecto a Eclipse?
+### How to import my project into Eclipse?
 
 1 - Once inside the Editor on the left side, click on the <em>Files</em> in the menu at the top, choose the <em>Open Projects from File System</em>.
 
