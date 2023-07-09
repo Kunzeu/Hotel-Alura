@@ -7,6 +7,12 @@
 ---
 ## Getting Started:
 #### Star this project by clicking ⭐
+#### Follow the guidelines provided in this repository. 📚
+
+
+Repository: [Link to Repository](https://github.com/alura-challenges/challenge-one-alura-hotel-latam)
+
+
 </br>
 
 ## 🖥️ Technologies Used:
