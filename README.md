@@ -6,7 +6,7 @@
 
 ---
 ## Getting Started:
-####🔹 Star this project by clicking ⭐
+#### Star this project by clicking ⭐
 </br>
 
 ## 🖥️ Technologies Used:
@@ -31,26 +31,22 @@ setLocationRelativeTo(null): sets the window location, and with the parameter nu
 #### For this challenge, focus on the logical part and the database connection. After completing the challenge, feel free to add new features and modify the graphical interface.
 ---
 
-## 🔍 ¡Analizando nuestro repositorio!
-
-### Este es el repositorio base de nuestro proyecto, en el encontrarás:
-#### 🔹 src/views: carpeta con toda la interfaz gráfica de las pantallas necesarias para desarrollar el programa;
-#### 🔹 src/imagenes: carpeta con imágenes que puedes usar en tu proyecto. Siéntete libre de usar otros, si lo deseas;
+## 🔍Analyzing our repository!
+### This is the base repository for our project. Here, you will find:
+#### src/views: folder with all the graphical interface of the screens necessary to develop the program.
+#### src/imagenes: folder with images that you can use in your project. Feel free to use others if you prefer.
 </br>
 
 ## ⬇️ Download
 
-### Cómo descargar:
-
-#### 🔹 Fork
-
-1 - Haz el <strong>fork</strong> del proyecto. En la parte superior derecha, al hacer clic en el icono se creará un repositorio del proyecto en tu cuenta personal de GitHub. </br>
-
+### How to Download:
+#### Fork
+1 - <strong>Fork</strong> the project. In the top right corner, by clicking on the icon, a repository of the project will be created in your personal GitHub account.
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169404781-7df6355b-3a15-472a-8d8e-fdb84d91a7bd.png">
 </p>
 
-2 - Una vez que tengas el repositorio "forkado" en tu cuenta, comprueba si la URL de la página es la del repositorio de tu cuenta.
+2 - Once you have the forked repository in your account, verify if the page URL corresponds to your own repository account.
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173256272-6dd3eaba-b52e-42ec-b307-17ed785f9110.png">
