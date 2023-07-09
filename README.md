@@ -58,13 +58,13 @@ setLocationRelativeTo(null): sets the window location, and with the parameter nu
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173256272-6dd3eaba-b52e-42ec-b307-17ed785f9110.png">
 </p>
 
-3 - Haz clic en la opción <strong>Code</strong>. Se mostrarán tres formas de instalar el repositorio en su máquina, y destacamos dos:
+3 - Click on the Code option. Three ways to install the repository on your machine will be displayed, and we highlight two:
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173166461-e62d9704-98d5-4773-a60e-57d5729575ae.png">
 </p></br>
 
-#### 🔹 Clonar o descargar el ZIP
+#### 🔹 Clone or download the ZIP file
 
 1 - Para clonar, simplemente copia el <em>url</em> resaltado en la imagen y ubicado justo debajo del HTTPS, crea una carpeta en tu computadora, abre el <em>cmd</em> o el <em>git bash</em> dentro de esa carpeta y luego ingresa el comando <strong>git clone</strong> y con el botón derecho del mouse dentro del terminal haz click en la opcion <strong>Paste</strong> para pegar el <em>url</em> y presiona <em>Enter</em>. 
 
@@ -79,19 +79,19 @@ setLocationRelativeTo(null): sets the window location, and with the parameter nu
 
 ### ¿Cómo importar mi proyecto a Eclipse?
 
-1 - Una vez dentro del Editor al lado izquierdo, haz clic en el <em>Files</em> que está en el menú en la parte superior, elige la opción <em>Open Projects from File System</em>.
+1 - Once inside the Editor on the left side, click on the <em>Files</em> in the menu at the top, choose the <em>Open Projects from File System</em>.
 
 <p align="center" >
      <img width="400" heigth="400" src="https://user-images.githubusercontent.com/101413385/173164237-1db32d79-2b35-433f-817c-ec3fa30899fc.png">
 </p>
 
-Luego haz click en <em>Directory</em> y ubica el directorio del proyecto "clonado" o "extraído" en tu computadora. Haz click en <em>Finish</em> para completar la importación.
+Then click Directory and locate the <em>Directory</em> of the "cloned" or "extracted" project on your computer. Click <em>Finish</em>  to complete the import.
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173110215-f9451a5e-a9eb-4056-aec8-6eb3e3601e53.png">
 </p>
 
-2 - La segunda forma de importar es en <em>File</em> en la opción <em>Import</em>. O a través del <strong>Project Explorer</strong> haz clic en el campo vacío con el botón derecho del mouse y elijas la opción <strong>Import</strong>.
+2 - The second way to import is in File in the Import option. Or through Project Explorer click on the empty field with the right mouse button and choose the Import option.
 
 <p align="center" >
      <img width="400" heigth="400" src="https://user-images.githubusercontent.com/101413385/173111357-2ec928ac-5a3d-4f7c-ba84-8906d84bfd08.png">
@@ -101,13 +101,13 @@ Luego haz click en <em>Directory</em> y ubica el directorio del proyecto "clonad
      <img width="400" heigth="400" src="https://user-images.githubusercontent.com/101413385/169431325-23a2e3cb-85a3-4298-8e60-64dfa58e2e6f.png">
 </p>
 
-Si te decides por el <strong>Import</strong>, se abrirá la ventana correspondiente. Haz clic en la opción <em>Existing Projects Into Workspace</em> y en el botón <em>Next</em>.
+If you choose the <strong>Import</strong> option, the corresponding window will open. Click on the <em>Existing Projects Into Workspace</em> option and then click the <em>Next</em> button.
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169431890-27f40955-27d8-4b4d-82df-d3507f85de6c.png">
 </p>
 
-Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio local.
+Then click the <em>Browse</em> button and browse for the project in the local directory.
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169432246-a769555c-daf9-490e-a0c7-908f7e5de967.png">
@@ -115,87 +115,86 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 
 ## 📅 JCalendar
 
-Tras realizar la importación a tu editor, es necesario instalar la librería <strong>JCalendar</strong>, de lo contrário, el proyecto presentará un error y no será posible abrir la ventana de <strong>Reservas</strong>. </br>
+After importing it into your editor, it is necessary to install the <strong>JCalendar</strong> library. Otherwise, the project will show an error and it won't be possible to open the <strong>Reservas</strong> window. </br>
 
-Para instalar, se necesita descargar el paquete a través de ese enlace: 
+To install it, you need to download the package through this link:
 🔹 [Link para el JCalendar](https://toedter.com/jcalendar/)
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169592420-7ea798d4-b7d2-4fd6-a03c-75f0fbc2e4bc.png">
 </p>
 
-El siguiente paso es extraer los archivos a una carpeta e importar los archivos desde la carpeta <strong>lib</strong> a una carpeta local e importar los archivos a Eclipse.
+The next step is to extract the files to a folder and import the files from the <strong>lib</strong> folder to a local folder and import the files into Eclipse.
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173167366-664a8876-a5c9-45d1-880d-650fbd6f8b07.png">     
 </p>
 
-Archivos de carpeta <strong>lib</strong>:
+<strong>lib</strong> folder files:
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173699122-00cc4055-2098-4bba-8d3b-3bd252013116.png">
 </p>
 
-Haz click con el botón derecho encima del proyecto ubicado en el <strong>Package Explorer</strong>, elijas la opción <em>Build Path</em> y <em>Configure Build Path</em>.
+Right-click on the project located in the <strong>Package Explorer</strong>, choose the <em>Build Path</em> option, and then select <em>Configure Build Path</em>.
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173167991-44b111ca-c2d6-4d83-b225-33eb2657448f.png">
 </p>
 
-El proyecto tendrá un mensaje de error que indica que la ruta de la biblioteca no existe en tu computadora. Haz click en <em>Libraries</em>, luego en <em>Classpath</em> seleccione el archivo JCalendar, elije la opción <em>Remove</em> y <em>Apply and Close</em>.
+The project will have an error message indicating that the library path does not exist on your computer. Click on <em>Libraries</em>, then in <em>Classpath</em> select the JCalendar file, choose the <em>Remove</em> option, and click on <em>Apply and Close</em>.
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173167817-ddbdedc5-c4a6-4f6d-bd86-f86a153d6b88.png">
 </p>
 
-Para importar el <strong>Jcalendar</strong> desde tu computadora, después de haber "extraído" los archivos de la descarga, pulsa en <em>ClassPath</em> y luego en <em>Add External JARS</em> agrega uno por uno  o selecciona todos de una vez y haz click en <em>Apply and Close</em>.
+To import the <strong>JCalendar</strong> from your computer, after extracting the downloaded files, click on <em>ClassPath</em> and then on <em>Add External JARS</em>. Add them one by one or select all at once, and click on <em>Apply and Close</em>.
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169596029-a9fa21ef-8d90-45a6-8aa2-be2d911d4074.png">
 </p>
 
-Por lo tanto, el proyecto debe contener los siguientes archivos después de las importaciones:
+Therefore, the project must contain the following files after imports:
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173695620-7a4893e9-b9a1-44d6-8b70-c94a85ea891e.png">
 </p>
 
 
-## 🚧 Proyecto
+## 🚧 Project
 
-#### Al clonar o descargar el proyecto base y tener instalado el JCalendar, tendrás esta presentación al ejecutar el proyecto en Eclipse:
+#### By cloning or downloading the base project and having the JCalendar installed, you will have this presentation when running the project in Eclipse:
 
 <p align="center" >
      <img width="700" heigth="700" src="https://user-images.githubusercontent.com/91544872/189419249-06b539da-7cf2-4d40-a711-618a5c872096.png">
 </p>
 
-### ⚠️ Descargué el proyecto pero los caracteres especiales no funcionan:
+### ⚠️ I downloaded the project but the special characters do not work:
 
-Si tu proyecto tiene errores como los de la imagen, siga los pasos a continuación:
+If your project has errors like the ones in the image, follow the steps below:
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/91544872/189419556-20b67f67-003c-47ac-a0ae-02cf814a6ccb.png">
 </p>
 
-Ve a <em>Window</em> y haz clic en <em>Preferences</em>.
+Go to <em>Window</em> and click on <em>Preferences</em>.
 
 <p align="center" >
      <img width="200" heigth="200" src="https://user-images.githubusercontent.com/101413385/173693126-8e2fec8b-91b1-4007-bbc5-010bb454f440.png">
 </p>
 
-Luego haz clic en <em>General</em> y en <em>Workspace</em>. Si tu <em>Text File Enconding</em> no está con el <strong>Default (UTF-8)</strong>, haz clic en <em>Other</em>, y eliges la opción <strong>UTF-8</strong>, y finaliza haciendo clic <em>Apply and Close</em>.
+Then click on <em>General</em> and then on <em>Workspace</em>. If your <em>Text File Encoding</em> is not set to <strong>Default (UTF-8)</strong>, click on <em>Other</em>, choose the <strong>UTF-8</strong> option, and finish by clicking on <em>Apply and Close</em>.
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173691963-1e3d966e-5162-4393-9232-d5d395d5440f.png">
 </p>
 
-## 📊 Base de Dados
+## 📊 Database
 
-### ¿Cómo importar MySqlConnector al proyecto?
+### How to import MySqlConnector into the project?
+It is the same path described to import the <strong>JCalendar</strong>. Right-click on the project, <em>Build Path</em>, <em>Configure Build Path</em>, <em>Libraries</em>, <em>Add External JARs</em>. To find the path of this <strong>.jar</strong> file, go to your computer's hard drive and enter the <em>Program Files (x86)</em> folder.
 
-Es la misma ruta descrita para importar el <strong>JCalendar</strong>, haga clic con el botón derecho en el proyecto, <em>Build Path</em>, <em>Configure Build Path</em>, <em>Libraries</em>, <em>Add External JARs</em>. Para encontrar la ruta de este archivo <strong>.jar</strong>, ve al disco duro de tu computadora e ingresa a la carpeta  <em>Archivos de Programas (x86)</em>.
-
-- Archivos de Programas (x86):
+- Program Files (x86):
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173169394-a67b528a-c8b7-4f7a-b374-a1da81b1cc5d.png">
 </p>
@@ -216,9 +215,9 @@ Es la misma ruta descrita para importar el <strong>JCalendar</strong>, haga clic
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173169737-5f93868e-df8f-4177-90ba-faf9570758ac.png">
 </p>
 
-### Modelado de tablas:
+### Modeling of tables:
 
-Para este reto te proponemos dos tablas: <strong>Reservas</strong> y <strong>Huéspedes</strong>. La tabla de huéspedes debe contener la clave externa <em>(foreign key)</em> <strong>idReserva</strong>.
+For this challenge, we propose two tables: <strong>Reservas</strong> (Bookings) and <strong>Huéspedes</strong> (Guests). The Huéspedes table should contain the foreign key <em>idReserva</em> (booking ID).
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/169529338-09a4d4c2-1b5a-41dc-b305-38498ebc29a8.png">
@@ -227,41 +226,41 @@ Para este reto te proponemos dos tablas: <strong>Reservas</strong> y <strong>Hu�
 
 ## 🗔 Plugin WindowBuilder
 
-En el menú de <strong>Eclipse</strong>, ir a la pestaña <em>Help</em> y seleccione la opción <em>Eclipse Marketplace</em>.
+In the <strong>Eclipse</strong> menu, go to the <em>Help</em> tab and select the <em>Eclipse Marketplace</em> option.
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173254683-a4d27b04-3994-4c7b-bf70-6e1b665a5452.png">
 </p>
 
-En la barra de búsqueda, ingresa <strong>window builder</strong> y haz click en <em>Go</em>. Después de la búsqueda, selecciona la primera opción y haz click en <em>Install</em>.
+In the search bar, enter <strong>window builder</strong> and click on <em>Go</em>. After the search, select the first option and click on <em>Install</em>.
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173254936-b1ed41ba-af1b-47ae-bf75-00de4a22ff19.png">
 </p>
 
-En la siguiente ventana, selecciona el botón <em>Confirm</em>.
+In the next window, select the <em>Confirm</em> button.
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173255237-94789460-0544-4dd3-b00d-2738b83bd575.png">
 </p>
 
-Haz click en la opción para aceptar los Términos de Uso, y para finalizar haz clic en <em>Finish</em>.
+Click on the option to accept the Terms of Use, and finally, click on <em>Finish</em> to complete.
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173255298-05ac80f1-3e93-4097-90af-7fc8a4fa1611.png">
 </p>
 
-Después de la instalación, será necesario reiniciar el <strong>Eclipse</strong>.
+After the installation, it will be necessary to restart <strong>Eclipse</strong>.
 
-### ¿Cómo abrir cada ventana de diseño?
+### How to open each design window?
 
-Una vez que completes el desafío, si quieres explorar el <em>Window Builder</em> y agregar nuevas ventanas, o cambiar el diseño de las existentes, haz clic en el archivo <strong>.java</strong>, y luego en <em>Open With</em> y finalmente en <em>Window Builder Editor</em>.
+Once you have completed the challenge, if you want to explore the <em>Window Builder</em> and add new windows or change the design of existing ones, click on the <strong>.java</strong> file, then on <em>Open With</em>, and finally on <em>Window Builder Editor</em>.
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173681973-5699a164-b66d-49f5-87c1-5436dd425457.png">
 </p>
 
-La pestaña de <em>Design</em> se abrirá por encima de la zona del <em>Console</em>. ¡Aquí puedes liberar al artista que llevas dentro de ti!
+The <em>Design</em> tab will open above the <em>Console</em> area. Here, you can unleash the artist within you!
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173682648-4c371224-fe4b-4e57-a3ee-9298a4d44554.png">
