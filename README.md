@@ -5,22 +5,17 @@
 </p>
 
 ---
-##  Primeros Pasos:
-
-
-#### 🔹 Marca este proyecto con una ⭐
-#### 🔹 Sigue las orientaciones que tenemos en este repositorio. 📚
-#### 🔹 ¡Visita la página del desafío haciendo clic aquí! [Link do Challenge](https://www.aluracursos.com/challenges/oracle-one-back-end/hotelalura) 📃
+## Getting Started:
+####🔹 Star this project by clicking ⭐
 </br>
 
-## 🖥️ Tecnologías Utilizadas:
+## 🖥️ Technologies Used:
 
 - Java
 - Eclipse
 - Biblioteca JCalendar
 - MySql
 - Plugin WindowBuilder </br>
-
 ---
 ## ⚠️ Importante! ⚠️
 
